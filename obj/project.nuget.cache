@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRl25RpekNHHwOtuWBNPkzYpJFDGVwvAsQR79sOy3Zs4MvZgjdjA3PaBOEDSaCHocQs4oxs0Q/MPhdvJa/R1tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justi\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ArknightsWeapons\\ArknightsWeapons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
