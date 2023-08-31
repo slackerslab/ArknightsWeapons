@@ -1,0 +1,12 @@
+Adds weapons from Arknights as usable weapons
+
+Arts Blade
+Blueberry
+Dark Chocolate
+Blueberry & Dark Chocolate
+
+Currently no crafting recipes:
+Позёмка's Crossbow
+Schwarz's Crossbow
+
+It is recommended to use Recipe Browser Mod to lookup crafting recipes if needed.

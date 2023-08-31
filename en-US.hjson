@@ -1,0 +1,68 @@
+Mods: {
+	ArknightsWeapons: {
+		Items: {
+			TestSword: {
+				DisplayName: Test Sword
+				Tooltip: ""
+			}
+
+			BlueberryDarkChocolate: {
+				DisplayName: Blueberry & Dark Chocolate
+				Tooltip:
+					'''
+					'Twin swords that Texas had reluctantly recieved as a gift in the past.
+					Named with 'just the right amount of stupid.''
+					'''
+			}
+
+			Blueberry: {
+				Tooltip: ""
+				DisplayName: Blueberry
+			}
+
+			DarkChocolate: {
+				Tooltip: ""
+				DisplayName: Dark Chocolate
+			}
+
+			ArtsSaber: {
+				Tooltip: ""
+				DisplayName: Arts Saber
+			}
+
+			ArtsBlade: {
+				Tooltip: ""
+				DisplayName: Arts Blade
+			}
+
+			PozyBow: {
+				Tooltip:
+					'''
+					Converts wooden arrows into pen knibs that shoot faster, deal 255% damage, and lower enemy defense.
+					'Due to some miscommunication, the Durin artificer mader her a crossbow instead of the fountain pen Позёмка wanted.'
+					'''
+				DisplayName: Позёмка's Crossbow
+			}
+
+			SchwarzBow: {
+				Tooltip:
+					'''
+					Talent: Armor-piercing Arrowhead
+					When attacking, 20% chance to shoot an armor-piercing arrowheal to deal 160% damage and decrease
+					the target's defense for 5 seconds.
+					Skill: Termination of Tactics
+					When using wooden arrows, attacks deal +180% damage. Increase Talent activation chance to 100%.
+					'''
+				DisplayName: Schwarz's Crossbow
+			}
+		}
+
+		Projectiles: {
+			BlueberryDarkChocolateProjectile.DisplayName: Blueberry Dark Chocolate Projectile
+			DarkChocolateProjectile.DisplayName: Dark Chocolate Projectile
+			BlueberryProjectile.DisplayName: Blueberry Projectile
+			PenNib.DisplayName: Pen Nib
+			ArmorPiercingArrowhead.DisplayName: Armor Piercing Arrowhead
+		}
+	}
+}
